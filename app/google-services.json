@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580054839605",
+    "project_id": "peepochat-88c1c",
+    "storage_bucket": "peepochat-88c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580054839605:android:56f98c8f60d7685006dc7c",
+        "android_client_info": {
+          "package_name": "com.example.peepochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjLuiRufgioCpumumQ8LQHUNmzwBi1AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.PeepoChat" parent="Theme.Material3.DayNight">
+        <item name="android:textColor">@color/Text</item>
+        <item name="android:windowBackground">@color/Background</item>
+        <item name="colorPrimary">@color/Primary</item>
+        <item name="colorSecondary">@color/Secondary</item>
+        <item name="colorAccent">@color/Accent</item>
+        <item name="titleTextColor">@color/Text</item>
+        <item name="actionBarItemBackground">@color/Primary</item>
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="MyActionBar" parent="Widget.MaterialComponents.ActionBar.Primary">
+        <item name="background">@color/Primary</item>
+    </style>
+
+    <style name="Theme.PeepoChat" parent="Base.Theme.PeepoChat" />
+</resources>
